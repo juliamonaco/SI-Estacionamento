@@ -1,5 +1,7 @@
 package br.com.fiap.model;
 
+/* Classe Aluno - Camada Model */
+
 public class AlunoModel {
 
 	private String nome;
